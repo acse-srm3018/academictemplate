@@ -32,3 +32,6 @@ To support this, here is a manually-curated list of bugs that have been fixed si
   - [Issue #6](https://github.com/academicpages/academicpages.github.io/issues/6), fixed in [34bg699](https://github.com/academicpages/academicpages.github.io/commit/34bd6990aa335c40cdadc01b5561797860d5eaa6)
 - 2017-03-27: Markdown generator is now functioning properly and is well-documented, see the Jupyter notebooks in `markdown_generator`
   - [Issue #8](https://github.com/academicpages/academicpages.github.io/issues/8), fixed in [4528221](https://github.com/academicpages/academicpages.github.io/commit/4528221629bb93508c6ed149b9035d75bb38b402)
+ 
+ 
+ ### Note
